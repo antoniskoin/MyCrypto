@@ -1,0 +1,15 @@
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\bin\Debug\MyCrypto.exe.config
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\bin\Debug\MyCrypto.exe
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\bin\Debug\MyCrypto.pdb
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.csprojAssemblyReference.cache
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.CryptoEntry.resources
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.Properties.Resources.resources
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.csproj.GenerateResource.cache
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.csproj.CoreCompileInputs.cache
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.exe
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.pdb
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.csproj.CopyComplete
+C:\Users\Antonis\source\repos\MyCrypto\MyCrypto\obj\Debug\MyCrypto.MainForm.resources
